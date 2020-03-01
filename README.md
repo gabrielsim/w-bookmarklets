@@ -11,3 +11,4 @@ Make a new bookmark in your browser (right-click on the bookmarks bar and click 
 ## Bookmarklets
 - [Clone a recipe without creating a parent-child relationship](./clone_recipe)
 - [Inject missing data pills into a trigger/action](./inject_field)
+- [Generate report of public recipes in account](./list_public_recipes)
