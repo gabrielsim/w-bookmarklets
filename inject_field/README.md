@@ -2,7 +2,10 @@
 A browser bookmarklet that helps you insert a top level data pill into a recipe's trigger/action that is otherwise missing.
 
 ![Job Report](./job_report.png)
+
 If `brand_id` field is missing as a data pill, executing the bookmarklet will create the data pill in the output data tree.
+
+![Bookmarklet](./bookmarklet.png)
 
 ## How it works
 The field is appended as a custom schema to the trigger/action.
