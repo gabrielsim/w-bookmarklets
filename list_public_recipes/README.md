@@ -16,8 +16,4 @@ On the front end, it creates a new tab in your Workato Dashboard to present that
 </details>
 
 ## Installing the bookmarklet
-Make a new bookmark in your browser (right-click on the bookmarks bar and click Add Page...)
-
-* Set **Name** to "Public Recipes"
-* Copy the script from [script.js](./script.js), paste this into the **Location** of your new bookmark.
-* Navigate to your [Workato Dashboard](https://www.workato.com/dashboard) and click the bookmarklet. Voila!
+See [here](../#installing-the-bookmarklet)
