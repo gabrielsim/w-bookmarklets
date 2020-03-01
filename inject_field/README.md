@@ -15,7 +15,7 @@ Note that performing a `Schema refresh` will overwrite the added data pills and 
 <details>
   <summary>Click here to watch a demo</summary>
 
-  ![Demo video](./demo.gif)
+  ![Demo video](./bookmarklet_demo.gif)
 </details>
 
 ## Installing the bookmarklet
