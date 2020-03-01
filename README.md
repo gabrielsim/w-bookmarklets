@@ -8,7 +8,10 @@ Make a new bookmark in your browser (right-click on the bookmarks bar and click 
 * Copy the contents of `script.js` from the bookmarklet you wish to use and paste it into the **Location** of your new bookmark.
 * Browse to an appropriate Workato page and click on the bookmark to activate its function.
 
-## Bookmarklets
+## Available bookmarklets
 - [Clone a recipe without creating a parent-child relationship](./clone_recipe)
 - [Inject missing data pills into a trigger/action](./inject_field)
 - [Generate report of public recipes in account](./list_public_recipes)
+
+---
+[Submit a suggestion](https://github.com/gabrielsim/w-bookmarklets/issues/new)
