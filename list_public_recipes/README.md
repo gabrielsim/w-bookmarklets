@@ -16,4 +16,4 @@ On the front end, it creates a new tab in your Workato Dashboard to present that
 </details>
 
 ## Installing the bookmarklet
-See [here](../#installing-the-bookmarklet)
+See [here](../README.md#installing-the-bookmarklet)
