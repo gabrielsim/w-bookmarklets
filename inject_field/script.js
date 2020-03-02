@@ -35,7 +35,7 @@ javascript:(function(){
       }
 
       if (!(block.name && (block.keyword === 'trigger' || block.keyword === 'action'))) {
-        return alert('You can only inject data pill into an configured application trigger/action');
+        return alert('You can only inject data pill into a configured application trigger/action');
       }
 
       if (!confirm(`Confirm that you want to add an output data pill [${field_name}] to Step ${recipe_step}: ${block.provider} ${block.name}`)) {
