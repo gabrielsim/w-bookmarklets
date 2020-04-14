@@ -77,7 +77,7 @@ javascript:(function(){
       return code;
     } else {
       for (let index in code.block) {
-        res = find_block(code.block[index], step_number);
+        let res = find_block(code.block[index], step_number);
         if (res) {
           return res;
         }
